@@ -3,7 +3,7 @@ import {ROUTER_DIRECTIVES} from '@angular/router';
 import {MainComponent} from './app/main';
 
 @Component({
-  selector: 'fountain-root',
+  selector: 'teleservis-root',
   template: '<router-outlet></router-outlet>',
   directives: [ROUTER_DIRECTIVES]
 })
